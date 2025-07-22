@@ -23,9 +23,9 @@ const Login = () => {
       {/* Left: Branding Section */}
       <div className="hidden lg:flex lg:w-1/2 bg-gradient-to-br from-primary to-primary-dark items-center justify-center p-12">
         <div className="max-w-lg text-white">
-          <h1 className="text-4xl font-bold mb-6">Welcome to PetVue</h1>
+          <h1 className="text-4xl font-bold mb-6">Welcome to Petvue</h1>
           <p className="text-lg opacity-90">
-            Your all-in-one platform for managing your pets' health and care needs.
+            Your all-in-one platform for managing your pets' health care needs.
           </p>
         </div>
       </div>
@@ -34,7 +34,7 @@ const Login = () => {
       <div className="w-full lg:w-1/2 flex items-center justify-center p-8">
         <div className="w-full max-w-md">
           <div className="text-center mb-8 lg:hidden">
-            <h1 className="text-3xl font-bold text-gray-900 mb-2">Welcome to PetVue</h1>
+            <h1 className="text-3xl font-bold text-gray-900 mb-2">Welcome to Petvue</h1>
             <p className="text-gray-600">Sign in to manage your pets' care</p>
           </div>
 
